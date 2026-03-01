@@ -1,0 +1,6 @@
+seed: 1337
+n_decks: 2
+strict: false
+input_dir: in
+output_dir: out
+run_name: specificr-example

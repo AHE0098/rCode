@@ -1,0 +1,12 @@
+.Rhistory
+.RData
+.Ruserdata
+
+# Output artifacts (keep placeholders/docs)
+out/*
+!out/.gitkeep
+!out/README.md
+
+# renv local library/cache
+renv/library/
+renv/staging/
